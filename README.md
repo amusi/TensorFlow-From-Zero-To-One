@@ -50,10 +50,17 @@
 **国外**
 
 - **（推荐）（在学ing）**[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)：TensorFlow Tutorials with [YouTube Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+
 - Stanford CS 20SI: Tensorflow for Deep Learning Research (斯坦福TensorFlow教程)
-- - [网址](https://web.stanford.edu/class/cs20si/index.html)
+
+  - [网址](https://web.stanford.edu/class/cs20si/index.html)
+
+
   - [视频](https://www.bilibili.com/video/av9156347/?from=search&seid=6905181275544516403)
   - [GitHub](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
+
+- [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)：该课程虽然为Machine Learning，但代码全使用TensorFlow，有实战意义
+
 - [Udacity](https://cn.udacity.com/course/deep-learning--ud730)  (优达学城TensorFlow教程)
 
 **国内**
