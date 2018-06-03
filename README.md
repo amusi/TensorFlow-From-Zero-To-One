@@ -1,6 +1,8 @@
 # TensorFlow-From-Zero-To-One
 记录自己学习TensorFlow的笔记和代码
 
+- [Google机器学习速成课程笔记](Google机器学习速成课程笔记)
+
 
 
 ## TensorFlow 参考学习资料
@@ -59,7 +61,7 @@
   - [视频](https://www.bilibili.com/video/av9156347/?from=search&seid=6905181275544516403)
   - [GitHub](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 
-- [Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)：该课程虽然为Machine Learning，但代码全使用TensorFlow，有实战意义
+- **（推荐）（在学ing）**[Google 机器学习速成课程](https://developers.google.com/machine-learning/crash-course/)：该课程虽然为Machine Learning，但代码全使用TensorFlow，有实战意义
 
 - [Udacity](https://cn.udacity.com/course/deep-learning--ud730)  (优达学城TensorFlow教程)
 
