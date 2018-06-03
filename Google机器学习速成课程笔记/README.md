@@ -2,11 +2,20 @@
 
 官网：https://developers.google.com/machine-learning/crash-course/
 
+- [视频课程](https://developers.google.com/machine-learning/crash-course/)
+- [练习](https://developers.google.com/machine-learning/crash-course/exercises)
+- [术语库](https://developers.google.com/machine-learning/crash-course/glossary)
+
 **机器学习速成课程简介**
 
 - Google 制作的节奏紧凑、内容实用的机器学习简介课程（使用TensorFlow API）
 - 学习速成课程包含一系列视频讲座课程、实际案例分析和实践练习。
 
+
+**Bilibili视频**
+
+- [英文语音&中文字幕](https://www.bilibili.com/video/av21398424/?p=1)
+- [中文语音&无字幕](https://www.bilibili.com/video/av20229263/?p=1)
 
 
 # 目录
@@ -19,9 +28,9 @@
 
 ## 第一部分：机器学习概念
 
-- [ ] [机器学习简介](https://developers.google.com/machine-learning/crash-course/ml-intro)
-- [ ] 框架处理
-- [ ] 深入了解机器学习
+- [x] [机器学习简介](机器学习概念/机器学习简介.md)
+- [x] [问题构建](机器学习概念/问题构建.md)
+- [ ] [深入了解机器学习](https://developers.google.com/machine-learning/crash-course/descending-into-ml/video-lecture)
 - [ ] 降低损失
 - [ ] 使用TF的基本步骤
 - [ ] 泛化
