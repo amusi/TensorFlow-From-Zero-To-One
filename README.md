@@ -77,7 +77,7 @@
 
 ### **书籍资源**
 
-- **（推荐）**[Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)   [ pdf书籍](http://download.csdn.net/download/xinconan1992/9877225)
+- **（推荐）**[Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)   [ pdf书籍](http://download.csdn.net/download/xinconan1992/9877225)  [中文翻译](https://github.com/apachecn/hands_on_Ml_with_Sklearn_and_TF)
 
 - **（推荐）（在学ing）**[《TensorFlow 1.x Deep Learning Cookbook》](https://github.com/PacktPublishing/TensorFlow-1x-Deep-Learning-Cookbook)  
 
