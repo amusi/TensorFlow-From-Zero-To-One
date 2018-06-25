@@ -31,7 +31,7 @@
 - [x] [机器学习简介](机器学习概念/机器学习简介.md)
 - [x] [问题构建](机器学习概念/问题构建.md)
 - [x] [深入了解机器学习](机器学习概念/深入了解机器学习.md)
-- [ ] [降低损失](https://developers.google.com/machine-learning/crash-course/reducing-loss/video-lecture)
+- [x] [降低损失](机器学习概念/降低损失.md)
 - [ ] 使用TF的基本步骤
 - [ ] 泛化
 - [ ] 训练集和测试集
