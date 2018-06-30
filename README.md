@@ -1,5 +1,8 @@
 # TensorFlow-From-Zero-To-One
-记录自己学习TensorFlow的笔记和代码
+**（正在学）**记录自己学习TensorFlow的笔记和代码
+
+- [TensorFlow从入门到精通](TensorFlow从入门到精通)
+
 
 - [Google机器学习速成课程笔记](Google机器学习速成课程笔记)
 
