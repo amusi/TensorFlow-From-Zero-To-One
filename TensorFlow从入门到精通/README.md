@@ -20,7 +20,7 @@
 
 ## TensorFlow教程内容
 
-- 01 简单线性模型（Simple Linear Model）
+- [01 简单线性模型（Simple Linear Model）](01_简单线性模型.ipynb)
 
 - 02 卷积神经网络（Convolutional Neural Network）
 
