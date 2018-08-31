@@ -1,5 +1,10 @@
 # TensorFlow-From-Zero-To-One
-**(正在学)**记录自己学习TensorFlow的笔记和代码
+记录自己学习TensorFlow的笔记和代码
+
+**正在学List**
+
+- [Deep Learning basics with Python, TensorFlow and Keras](Deep_Learning_Basics_with_Python_TensorFlow_and_Keras)
+
 
 - [TensorFlow从入门到精通](TensorFlow从入门到精通)
 
@@ -53,6 +58,9 @@
 ### **视频教程**
 
 **国外**
+
+- **（推荐）（在学ing）**[Deep Learning basics with Python, TensorFlow and Keras](https://youtu.be/wQ8BIBpya2k)   [网址](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
+
 
 - **（推荐）（在学ing）**[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)：TensorFlow Tutorials with [YouTube Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
