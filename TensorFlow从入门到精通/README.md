@@ -3,7 +3,8 @@
 官网：https://youtu.be/er8RQZoX3yk
 
 - [视频课程](https://youtu.be/er8RQZoX3yk)
-- [github](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+- [github-TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+- [github-TensorFlow-Tutorials-Chinese](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese)
 
 **TensorFlow从入门到精通教程（TensorFlow-Tutorials）简介**
 
