@@ -43,9 +43,9 @@
 
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)：TensorFlow - A curated list of dedicated resources 
 
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
+- **（强力推荐）**[TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
 
-- [TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)：Simple tutorials using Google's TensorFlow Framework
+- **（推荐）**[TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)：Simple tutorials using Google's TensorFlow Framework
 
 - [EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow)
 
