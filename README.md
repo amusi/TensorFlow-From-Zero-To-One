@@ -48,6 +48,7 @@
 - **（♥♥♥♥♥）**[TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - **（♥♥♥♥♥）**[TensorFlow-Course](https://github.com/osforscience/TensorFlow-Course)：Simple and ready-to-use tutorials for TensorFlow
 - **（♥♥♥♥）**[EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow)：TensorFlow tutorials and best practices
+- **（♥♥♥♥）**[TensorFlow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：Simple Tensorflow Cookbook for easy-to-use
 - **（♥♥♥）**[TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)：Simple tutorials using Google's TensorFlow Framework
 - [DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll)：香港科技大学TensorFlow教程及GitHub代码
 - [deep-learning-keras-tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow)：Introduction to Deep Neural Networks with Keras and Tensorflow
