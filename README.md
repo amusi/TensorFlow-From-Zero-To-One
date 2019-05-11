@@ -33,6 +33,7 @@
 - **（♥♥♥♥♥）**[GitHub：TensorFlow](https://github.com/tensorflow/tensorflow)
 - （♥♥♥♥）[Medium：TensorFlow](https://medium.com/tensorflow)：官方维护，分享最佳干货文章
 - （♥♥♥♥）[Twitter：TensorFlow](https://twitter.com/tensorflow)：官方维护，分享最快动态
+- （♥♥♥♥）[Youtube：TensorFlow](<https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ>)：官方维护，分享最新视频
 - [TensorFlow Js官网](https://js.tensorflow.org/)
 
 **国内**
