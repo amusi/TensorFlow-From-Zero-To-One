@@ -49,7 +49,7 @@
 - **（♥♥♥♥♥）**[TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - **（♥♥♥♥♥）**[TensorFlow-Course](https://github.com/osforscience/TensorFlow-Course)：Simple and ready-to-use tutorials for TensorFlow
 - **（♥♥♥♥）**[TensoFlow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：TensorFlow2中文教程（代码实战为主）
-- ****（♥♥♥♥）[TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples)：TensorFlow2中文教程（代码实战为主）
+- **（♥♥♥♥）**[TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples)：TensorFlow2 教程（代码实战为主）
 - **（♥♥♥♥）**[EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow)：TensorFlow tutorials and best practices
 - **（♥♥♥♥）**[TensorFlow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：Simple Tensorflow Cookbook for easy-to-use
 - **（♥♥♥）**[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)：TensorFlow Tutorials with YouTube Videos
