@@ -1,7 +1,7 @@
 # TensorFlow-From-Zero-To-One
-记录自己学习TensorFlow的参考资料、笔记和代码
+TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频教程、书籍推荐和实战项目等
 
-注：♥表示推荐指数，越多越好
+注：♥ 表示推荐指数，越多越好
 
 **正在学List**
 
@@ -24,6 +24,8 @@
 [TensorFlow topic](https://github.com/topics/tensorflow)
 
 [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)：TensorFlow - A curated list of dedicated resources 
+
+[awesome-tensorflow-2](https://github.com/Amin-Tgz/awesome-tensorflow-2)：Tensorflow 2.x resources such as tutorial, blog, code and videos 
 
 ### **官网&社区**
 
@@ -86,7 +88,7 @@
 
 - **（♥♥♥♥♥）（在学ing）**[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://github.com/ageron/handson-ml2)
 - **（♥♥♥♥）**[Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)   [中文翻译](https://hand2st.apachecn.org/#/)
-- （♥♥♥）[TensorFlow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+- **（♥♥♥）**[TensorFlow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
 - [TensorFlow 1.x Deep Learning Cookbook](https://github.com/PacktPublishing/TensorFlow-1x-Deep-Learning-Cookbook)  
 - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)：Accompanying source code for 《Machine Learning with TensorFlow》
 
