@@ -50,7 +50,8 @@ TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频�
 - **（♥♥♥♥♥）**[tf2_course](https://github.com/ageron/tf2_course)：第一个TensorFlow2.x系列教程（作者是巨佬）
 - **（♥♥♥♥♥）**[TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - **（♥♥♥♥♥）**[TensorFlow-Course](https://github.com/osforscience/TensorFlow-Course)：Simple and ready-to-use tutorials for TensorFlow
-- **（♥♥♥♥）**[TensoFlow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：TensorFlow2中文教程（代码实战为主）
+- **（♥♥♥♥♥）**[TensoFlow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：TensorFlow2中文教程（代码实战为主）
+- **（♥♥♥♥）**[Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：TensorFlow2.0版本的《动手学深度学习》
 - **（♥♥♥♥）**[TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples)：TensorFlow2 教程（代码实战为主）
 - **（♥♥♥♥）**[EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow)：TensorFlow tutorials and best practices
 - **（♥♥♥♥）**[TensorFlow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：Simple Tensorflow Cookbook for easy-to-use
@@ -106,5 +107,6 @@ TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频�
 - [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
 - [SSD-TensorFlow](https://github.com/balancap/SSD-Tensorflow)
 - [CapsNet-Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
+- [tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models)
 - [tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 - [tensorflow_poems](https://github.com/jinfagang/tensorflow_poems)
