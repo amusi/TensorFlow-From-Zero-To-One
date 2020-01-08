@@ -102,6 +102,7 @@ TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频�
 - **（♥♥♥♥♥）**[TensorFlow/models](https://github.com/tensorflow/models)：Models and examples built with TensorFlow
 - [tensorboard](https://github.com/tensorflow/tensorboard)
 - [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/)
+-  [Basic_CNNs_TensorFlow2](https://github.com/calmisential/Basic_CNNs_TensorFlow2) 
 - [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 - [facenet](https://github.com/davidsandberg/facenet)
 - [FastMaskRCNN](https://github.com/CharlesShang/FastMaskRCNN)
