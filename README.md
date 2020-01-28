@@ -42,11 +42,11 @@ TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频�
 - **（♥♥♥♥）**[Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：TensorFlow2.0版本的《动手学深度学习》
 - **（♥♥♥♥）**[TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples)：TensorFlow2 教程（代码实战为主）
 - **（♥♥♥♥）**[Deep Learning with Tensorflow 2.0](https://www.adhiraiyan.org/DeepLearningWithTensorflow.html)
+- **（♥♥♥）** [Tensorflow2-Cookbook](https://github.com/taki0112/Tensorflow2-Cookbook)
 - **（♥♥♥♥）**[EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow)：TensorFlow tutorials and best practices
 - **（♥♥♥♥）**[TensorFlow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：Simple Tensorflow Cookbook for easy-to-use
 - **（♥♥♥）**[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)：TensorFlow Tutorials with YouTube Videos
 - **（♥♥♥）**[TensorFlow-Tutorials-Chinese](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese)：TensorFlow 中文教程 (Chinese Tutorials)
-- **（♥♥）**[DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll)：香港科技大学TensorFlow教程及GitHub代码
 
 ### **视频教程**
 
