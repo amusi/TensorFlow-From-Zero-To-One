@@ -52,10 +52,12 @@ TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频�
 
 **国外**
 
-- **（♥♥♥♥♥）（在学ing）**[Deep Learning basics with Python, TensorFlow and Keras](https://youtu.be/wQ8BIBpya2k)   [网址](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
+- **（♥♥♥♥♥）**[TensorFlow 2.0 Tutorials for Beginners](https://www.youtube.com/watch?v=nVvhkVLh60o&list=PLc2rvfiptPSR3iwFp1VHVJFK4yAMo0wuF)
+
+- **（♥♥♥♥♥）**[Deep Learning basics with Python, TensorFlow and Keras](https://youtu.be/wQ8BIBpya2k)   [网址](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
 
 
-- **（♥♥♥♥♥）（在学ing）**[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)：TensorFlow Tutorials with [YouTube Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
+- **（♥♥♥♥♥）**[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)：TensorFlow Tutorials with [YouTube Videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ)
 
 - **（♥♥♥♥）**Stanford CS 20SI: Tensorflow for Deep Learning Research (斯坦福TensorFlow教程)
   - [官网：CS20SI](https://web.stanford.edu/class/cs20si/index.html)
