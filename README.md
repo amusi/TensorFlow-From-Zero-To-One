@@ -37,17 +37,23 @@ TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频�
 
 ### **在线教程**
 
+**英文**
+
 - **（♥♥♥♥♥）**[tf2_course](https://github.com/ageron/tf2_course)：第一个TensorFlow2.x系列教程（作者是巨佬）
 - **（♥♥♥♥♥）**[TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)：TensorFlow Tutorial and Examples for Beginners with Latest APIs
 - **（♥♥♥♥♥）**[TensorFlow-Course](https://github.com/osforscience/TensorFlow-Course)：Simple and ready-to-use tutorials for TensorFlow
-- **（♥♥♥♥♥）**[TensoFlow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：TensorFlow2中文教程（代码实战为主）
-- **（♥♥♥♥）**[Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：TensorFlow2.0版本的《动手学深度学习》
 - **（♥♥♥♥）**[TensorFlow2.0-Examples](https://github.com/YunYang1994/TensorFlow2.0-Examples)：TensorFlow2 教程（代码实战为主）
 - **（♥♥♥♥）**[Deep Learning with Tensorflow 2.0](https://www.adhiraiyan.org/DeepLearningWithTensorflow.html)
-- **（♥♥♥）** [Tensorflow2-Cookbook](https://github.com/taki0112/Tensorflow2-Cookbook)
 - **（♥♥♥♥）**[EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow)：TensorFlow tutorials and best practices
 - **（♥♥♥♥）**[TensorFlow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook)：Simple Tensorflow Cookbook for easy-to-use
+- **（♥♥♥）** [Tensorflow2-Cookbook](https://github.com/taki0112/Tensorflow2-Cookbook)
 - **（♥♥♥）**[TensorFlow-Tutorials](https://github.com/Hvass-Labs/TensorFlow-Tutorials)：TensorFlow Tutorials with YouTube Videos
+
+**中文**
+
+- **（♥♥♥♥♥）**[TensoFlow2中文教程](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)：TensorFlow2中文教程（代码实战为主）
+- **（♥♥♥♥）**[Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)：TensorFlow2.0版本的《动手学深度学习》
+- **（♥♥♥♥）**[《30天吃掉那只 TensorFlow2.0 》](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 - **（♥♥♥）**[TensorFlow-Tutorials-Chinese](https://github.com/Hvass-Labs/TensorFlow-Tutorials-Chinese)：TensorFlow 中文教程 (Chinese Tutorials)
 
 ### **视频教程**
