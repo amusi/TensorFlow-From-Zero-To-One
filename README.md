@@ -11,6 +11,8 @@ TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频�
 
 [TensorFlow topic](https://github.com/topics/tensorflow)
 
+[TensorFlow-Roadmap Documentation](https://readthedocs.org/projects/tensorflow-world-resources/downloads/pdf/latest/)：强推！TensorFlow学习路线图
+
 [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)：TensorFlow - A curated list of dedicated resources 
 
 [awesome-tensorflow-2](https://github.com/Amin-Tgz/awesome-tensorflow-2)：Tensorflow 2.x resources such as tutorial, blog, code and videos
