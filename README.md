@@ -91,6 +91,7 @@ TensorFlow 从0到1学习资料大全，含入门指南、在线博客、视频�
 - **（♥♥♥♥♥）（在学ing）**[Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://github.com/ageron/handson-ml2)
 - **（♥♥♥♥）**[Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)   [中文翻译](https://hand2st.apachecn.org/#/)
 - **（♥♥♥）**[TensorFlow Machine Learning Cookbook](https://github.com/nfmcclure/tensorflow_cookbook)
+- **（♥♥♥）**[Advanced Deep Learning with TensorFlow 2 and Keras](https://www.packtpub.com/programming/advanced-deep-learning-with-tensorflow-2-and-keras-second-edition)  [代码](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras)
 - [TensorFlow 1.x Deep Learning Cookbook](https://github.com/PacktPublishing/TensorFlow-1x-Deep-Learning-Cookbook)  
 - [TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book)：Accompanying source code for 《Machine Learning with TensorFlow》
 
